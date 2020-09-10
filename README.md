@@ -2,7 +2,7 @@
 Slides for the talk "SPA - Slow pace application". Talk was given in German, so the rest of the text is in German. Please contact us for an English version.
 
 Folien für den Vortrag "SPA - Slow pace application"
-View the slides here: - Link folgt in Kürze -
+Schau dir die Folien hier an: [Slides](https://merelyanna.github.io/SPA-SlowPaceApplication-Slides/)
 
 Der Vortrag wurde gehalten von Christina Zenzes und Anna Backs.<br/>
 Christina's twitter: [merelyChristina](https://twitter.com/merelyChristina)<br/>
